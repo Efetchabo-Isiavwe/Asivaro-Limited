@@ -1,0 +1,6 @@
+{
+  "name": "ASIVAROOPS AI",
+  "description": "AI-powered business operating system for African SMEs. Ask your business. Know what to do next.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
